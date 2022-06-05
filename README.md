@@ -1,5 +1,5 @@
 # PyBot
-Pybot is a Binance Crypto Trading Bot.
+Pybot is a Binance Crypto Trading Bot. 
 
 
 ## Config.py
@@ -8,6 +8,13 @@ This file is not uploaded. Create the python files with the below settings from 
 API_KEY = 'YOUR_API_KEY'
 API_SECRET = 'YOUR_API_SECRET'
 ```
+
+
+## Road Map
+This is an initial version. Future versions may use 3rd party API or providers such as:
+- [https://alpaca.markets](https://alpaca.markets)
+- [https://blankly.finance/](https://blankly.finance/)
+
 
 ## Acknowledgements
 
