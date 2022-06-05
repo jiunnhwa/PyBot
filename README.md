@@ -3,7 +3,7 @@ Pybot is a Binance Crypto Trading Bot.
 
 
 ## Config.py
-This file is not uploaded. Create the python files with the below settings from Binance's API management settings.
+This file is not uploaded. Create config.py file with the below settings from Binance's API management settings.
 ```
 API_KEY = 'YOUR_API_KEY'
 API_SECRET = 'YOUR_API_SECRET'
